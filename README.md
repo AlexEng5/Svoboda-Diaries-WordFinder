@@ -1,0 +1,1 @@
+# Svoboda-Diaries-WordFinder
