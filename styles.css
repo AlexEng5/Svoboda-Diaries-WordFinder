@@ -1,0 +1,22 @@
+/*
+  This CSS file stylizes the wordfinder.
+*/
+body {
+ background-color: #FFEED3;
+}
+
+#logo, #search-bar {
+  text-align: center;
+}
+
+#logo {
+  font-family: 'Risque', cursive;
+  font-size: 48px;
+  margin-bottom: 14px;
+  margin-top: 150px;
+}
+
+#search {
+  width: 750px;
+  height: 105px;
+}
