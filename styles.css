@@ -16,6 +16,10 @@ body {
   margin-top: 150px;
 }
 
+#select {
+  text-align: end;
+}
+
 #search {
   width: 750px;
   height: 105px;
