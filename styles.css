@@ -21,6 +21,8 @@ body {
 }
 
 #search {
+  font-size: 36pt;
+  padding-left: 30px;
   width: 750px;
   height: 105px;
 }
