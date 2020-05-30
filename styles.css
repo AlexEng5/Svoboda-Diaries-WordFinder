@@ -13,11 +13,13 @@ body {
   font-family: 'Risque', cursive;
   font-size: 48px;
   margin-bottom: 14px;
-  margin-top: 150px;
+  margin-top: 140px;
 }
 
 #select {
   text-align: end;
+  margin-right: 15px;
+  margin-top: 15px;
 }
 
 #search {
@@ -28,14 +30,20 @@ body {
 }
 
 #length {
-  width: 20px;
+  width: 75px;
+  height: 26px;
+  margin-left: 0px;
+}
+
+.switch {
+  margin-left: 25px;
 }
 
 #features {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  margin-top: 25px;
+  margin-top: 26px;
   margin-left: 310px;
   margin-right: 280px;
 }
